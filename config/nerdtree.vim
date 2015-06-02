@@ -1,2 +1,2 @@
-   " Nerdtree toggle keybinding with Ctrl-n
-    map <Leader>d :NERDTreeToggle 
+   " Nerdtree toggle keybinding with Leader-d
+    map <Leader>d :NERDTreeToggle<cr> 
