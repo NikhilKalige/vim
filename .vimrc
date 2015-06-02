@@ -18,6 +18,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/nerdtree'
 Plugin 'itchyny/lightline.vim'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'scrooloose/syntastic'
 " Plugin 'bling/vim-airline'
 
 " All of your plugins must be added before the following line
