@@ -17,6 +17,7 @@ Plugin 'tpope/vim-sensible'
 Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/nerdtree'
 Plugin 'itchyny/lightline.vim'
+Plugin 'Valloric/YouCompleteMe'
 " Plugin 'bling/vim-airline'
 
 " All of your plugins must be added before the following line
