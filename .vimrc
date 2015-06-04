@@ -19,6 +19,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'itchyny/lightline.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'scrooloose/syntastic'
+Plugin 'ntpeters/vim-better-whitespace'
 " Plugin 'bling/vim-airline'
 
 " All of your plugins must be added before the following line
